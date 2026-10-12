@@ -1,0 +1,13 @@
+[
+  {"name": "AdAtlas Example", "country_code": "USA", "region": "New York", "city": "New York"},
+  {"name": "adBeacon Example", "country_code": "USA", "region": "New York", "city": "Albany"},
+  {"name": "ADCloud Example", "country_code": "USA", "region": "California", "city": "San Francisco"},
+  {"name": "AdDelta Example", "country_code": "USA", "region": "New York", "city": "Buffalo"},
+  {"name": "AdEcho Example", "country_code": "CAN", "region": "Ontario", "city": "Toronto"},
+  {"name": "Bright Example", "country_code": "USA", "region": "New York", "city": "New York"},
+  {"name": null, "country_code": "USA", "region": "New York", "city": "New York"},
+  {"name": "", "country_code": "USA", "region": "New York", "city": "New York"},
+  {"name": "   ", "country_code": "USA", "region": "New York", "city": "New York"},
+  {"name": "AdCafé Example", "country_code": "USA", "region": "New York", "city": "Rochester"}
+]
+
